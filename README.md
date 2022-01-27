@@ -1,2 +1,3 @@
+# Learner
 I am passionate about problem-solving, seeing it as an opportunity to test my understanding of Mathematics and Engineering Sciences for the best possible solution.
 I love discovering the flight paths/trajectories of the spacecraft using Analytic geometry, and to descry intuitive patterns and the practical applications in Number-Theory with a major interest in the mathematics of Calculus, Linear algebra, and Vector field.
