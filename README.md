@@ -11,7 +11,7 @@ However, there is a huge possibility of finding me working on my mathematics for
 
 Thanks to Python and it's extensive libraries for helping me visualize data and making calculations a lot easier though, on weekends I may end up giving my time to **find the direction of stocks and commodities on deciphering the previous patterns, news, global market, and global supply chain**
 
-**Just a day after the first investment of life when I was waiting for major events to happen, Yes I bet major events ONLY**
+**Just 1 day after the first investment of life when I was waiting for major events to happen, Yes I bet major events ONLY**
 
 
 
