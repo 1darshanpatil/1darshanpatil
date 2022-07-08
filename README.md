@@ -18,4 +18,4 @@ Thanks to Python and it's extensive libraries for helping me visualize data and 
 ![image](https://user-images.githubusercontent.com/72539638/176453061-26e4649d-6dfd-4d26-9fc4-fb5819adbd1b.png)
 
 After I started taking big risks
-![image](https://i.stack.imgur.com/y9fKy.png)
+![image](https://user-images.githubusercontent.com/72539638/177985977-931d7768-6bc4-41ef-a800-edd1455cb65b.png)
