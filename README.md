@@ -2,7 +2,6 @@
 
 I love Python and its extensive libraries have been helping me visualizing data and making calculations a lot easier. I sometimes spend my time finding direction of stocks and commodities futures attempting to decipher the previous patterns, news, global market, and global supply chain.
 
-**MY REPOSITORIES ARE NOT PUBLIC <= FY23**
 
 <hr>
 <img src="https://www.linkpicture.com/q/c_16.png" height="42px" align="left">
@@ -25,3 +24,5 @@ I love Python and its extensive libraries have been helping me visualizing data 
 <img src="https://www.linkpicture.com/q/sympy_1.png" height="42px" align="left">
 <img src="https://www.linkpicture.com/q/tensorflow_1.png" height="42px" align="left">
 <img src="https://www.linkpicture.com/q/vscode_1.png" height="42px" align="left">
+
+**MY REPOSITORIES ARE NOT PUBLIC <= FY23**
