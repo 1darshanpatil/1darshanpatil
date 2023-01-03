@@ -13,6 +13,6 @@ for s in data:
     if link_match:
         # Extract the link from the match
         link = link_match.group(1)
-        print('<img src="' + link + '"' + ' height="42px">')
+        print('<img src="' + link + '"' + ' height="42px" align="left">')
 
 
