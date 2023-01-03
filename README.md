@@ -6,7 +6,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
 ## !For some reasons I cannot keep my repositories public!
 ## Languages and Tools
 <br>
-<<<<<<< HEAD
+
 <img src="https://www.linkpicture.com/q/c_16.png" height="42px" align="left">
 <!--<img src="https://www.linkpicture.com/q/c_1.jpg" height="42px" align="left">-->
 <img src="https://www.linkpicture.com/q/c_17.png" height="42px" align="left">
@@ -27,7 +27,6 @@ I love Python and its extensive libraries have been helping me visualizing data 
 <img src="https://www.linkpicture.com/q/sympy_1.png" height="42px" align="left">
 <img src="https://www.linkpicture.com/q/tensorflow_1.png" height="42px" align="left">
 <img src="https://www.linkpicture.com/q/vscode_1.png" height="42px" align="left">
-=======
 <img src="https://i.ibb.co/dJ9QrPw/c.png" height="42px" align="left">
 <img src="https://i.ibb.co/n3SVK28/c.png" height="42px" align="left">
 <img src="https://i.ibb.co/7QCHqFg/cc.png" height="42px" align="left">
@@ -47,4 +46,4 @@ I love Python and its extensive libraries have been helping me visualizing data 
 <img src="https://i.ibb.co/ckk88Pg/sympy.png" height="42px" align="left">
 <img src="https://i.ibb.co/WnBbYsV/tensorflow.png" height="42px" align="left">
 <img src="https://i.ibb.co/vBqWs9j/vscode.png" height="42px" align="left">
->>>>>>> 6282095fb3baa07a931f7ad46d71a93c5e60956b
+
