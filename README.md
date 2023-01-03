@@ -5,7 +5,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
 
 
 ## Languages and Tools
-<br>
+<hr>
 <img src="https://www.linkpicture.com/q/c_16.png" height="42px" align="left">
 <!--<img src="https://www.linkpicture.com/q/c_1.jpg" height="42px" align="left">-->
 <img src="https://www.linkpicture.com/q/c_17.png" height="42px" align="left">
