@@ -5,23 +5,22 @@
 
 
 ## Languages and Tools  
-
-<img src="images/c.png" height="42px">
-<img src="images/c++.png" height="42px">
-<img src="images/cc.png" height="42px">
-<img src="images/flask.png" height="42px">
-<img src="images/github.png" height="42px">
-<img src="images/html5.png" height="42px">
-<img src="images/net.png" height="42px">
-<img src="images/mathematica.png" height="42px">
-<img src="images/numpy.png" height="42px">
-<img src="images/pandas.png" height="42px">
-<img src="images/python.jpg" height="42px">
-<img src="images/scikit-learn.png" height="42px">
-<img src="images/scipy.png" height="42px">
-<img src="images/sympy.png" height="42px">
-<img src="images/jupyter.png" height="42px">
-<img src="images/vscode.png" height="42px">
-<img src="images/tensorflow.png" height="42px">
-<img src="images/keras.png" height="42px">
-<img src="images/js.png" height="42px">
+<img src="https://i.ibb.co/dJ9QrPw/c.png" height="42px">
+<img src="https://i.ibb.co/n3SVK28/c.png" height="42px">
+<img src="https://i.ibb.co/7QCHqFg/cc.png" height="42px">
+<img src="https://i.ibb.co/k4xGtqn/flask.png" height="42px">
+<img src="https://i.ibb.co/3Ndjw0B/github.png" height="42px">
+<img src="https://i.ibb.co/b3gRNwD/html5.png" height="42px">
+<img src="https://i.ibb.co/8gFhcZY/js.png" height="42px">
+<img src="https://i.ibb.co/2NPJ56w/jupyter.png" height="42px">
+<img src="https://i.ibb.co/JyL7QJ5/keras.png" height="42px">
+<img src="https://i.ibb.co/zbHQKZN/mathematica.png" height="42px">
+<img src="https://i.ibb.co/nBGVH4s/net.png" height="42px">
+<img src="https://i.ibb.co/jZfC72t/numpy.png" height="42px">
+<img src="https://i.ibb.co/GTvwcJn/pandas.png" height="42px">
+<img src="https://i.ibb.co/JqZFnHK/python.jpg" height="42px">
+<img src="https://i.ibb.co/56qB1Bj/scikit-learn.png" height="42px">
+<img src="https://i.ibb.co/mDzd90y/scipy.png" height="42px">
+<img src="https://i.ibb.co/ckk88Pg/sympy.png" height="42px">
+<img src="https://i.ibb.co/WnBbYsV/tensorflow.png" height="42px">
+<img src="https://i.ibb.co/vBqWs9j/vscode.png" height="42px">
