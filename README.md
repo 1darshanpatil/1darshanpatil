@@ -24,7 +24,8 @@ I love Python and its extensive libraries have been helping me visualizing data 
 <img src="https://www.linkpicture.com/q/sympy_1.png" height="42px" align="left">
 <img src="https://www.linkpicture.com/q/tensorflow_1.png" height="42px" align="left">
 <img src="https://www.linkpicture.com/q/vscode_1.png" height="42px" align="left">
-<hr>
+
+<br>
 
 
 **MY REPOSITORIES ARE NOT PUBLIC <= FY23**
