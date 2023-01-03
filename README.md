@@ -1,9 +1,9 @@
 ## Getting to the personal part:
 
--I love Python and its extensive libraries have been helping me visualizing data and making calculations a lot easier. I sometimes spend my time finding direction of stocks and commodities futures attempting to decipher the previous patterns, news, global market, and global supply chain.
+I love Python and its extensive libraries have been helping me visualizing data and making calculations a lot easier. I sometimes spend my time finding direction of stocks and commodities futures attempting to decipher the previous patterns, news, global market, and global supply chain.
 
 
-
+## !For some reasons I cannot keep my repositories public!
 ## Languages and Tools
 <br>
 <img src="https://i.ibb.co/dJ9QrPw/c.png" height="42px" align="left">
