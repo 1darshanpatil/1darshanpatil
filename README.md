@@ -38,6 +38,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
             <img src="https://www.linkpicture.com/q/cc_2.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/net_3.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/vscode_1.png" height="42px" align="left">
+            <img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" height="42px" align="left">
         </td>
     </tr>
     <tr>
