@@ -29,6 +29,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
             <img src="https://www.linkpicture.com/q/keras_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/mathematica_1.png" height="42px" align="left">
             <img src="https://www.selenium.dev/images/logos/webdriver.svg", height="42px", align="left">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="42px" align="left">
         </td>
     </tr>
     <tr>
