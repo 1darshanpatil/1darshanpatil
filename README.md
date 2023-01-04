@@ -25,6 +25,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
             <img src="https://www.linkpicture.com/q/jupyter_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/keras_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/mathematica_1.png" height="42px" align="left">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASelenium_Logo.png&psig=AOvVaw2E1nWOgS7wuj1-E5Bb41YK&ust=1672925980875000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDK7IiFrvwCFQAAAAAdAAAAABAE" height="42px" align="left">
         </td>
     </tr>
     <tr>
