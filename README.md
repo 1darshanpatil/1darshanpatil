@@ -12,7 +12,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
         </tr>
     </thead>
     <tr>
-        <td>Python\DataScience\Mathematics stuff</td>
+        <td>Mathematics stuff</td>
         <td><img src="https://www.linkpicture.com/q/flask_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/github_6.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/numpy_1.png" height="42px" align="left">
