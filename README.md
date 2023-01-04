@@ -18,10 +18,10 @@ I love Python and its extensive libraries have been helping me visualizing data 
         <td>Mathematics stuff</td>
         <td><img src="https://www.linkpicture.com/q/python_2.jpg" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/numpy_1.png" height="42px" align="left">
-            <img src="https://www.linkpicture.com/q/pandas_1.png" height="42px" align="left">
-            <img src="https://www.linkpicture.com/q/scikit-learn_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/scipy_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/sympy_1.png" height="42px" align="left">
+            <img src="https://www.linkpicture.com/q/pandas_1.png" height="42px" align="left">
+            <img src="https://www.linkpicture.com/q/scikit-learn_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/tensorflow_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/jupyter_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/keras_1.png" height="42px" align="left">
