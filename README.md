@@ -25,7 +25,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
             <img src="https://www.linkpicture.com/q/jupyter_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/keras_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/mathematica_1.png" height="42px" align="left">
-            <img src="https://www.linkpicture.com/q/download_51.jfif" alt="" height="42px" align="left">
+            <img src="[https://www.linkpicture.com/q/download_51.jfif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fpycharm%3Fl%3Dpython&psig=AOvVaw0KU056ftnJbzf4UJITzyTe&ust=1672924896703000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPic5YSBrvwCFQAAAAAdAAAAABAE)" alt="" height="42px" align="left">
         </td>
     </tr>
     <tr>
