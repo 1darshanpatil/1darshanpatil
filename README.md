@@ -29,6 +29,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
             <img src="https://www.linkpicture.com/q/flask_1.png" height="42px" align="left">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/github_6.png" height="42px" align="left">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRda0DJBSxwYFu3_6eJYq4U2csp6BEGtYNHhQgT4HjIo4Z1DV1q3dctrTJmyc4U6t79SoI&usqp=CAU" height="42px" align="left">
         </td>
     </tr>
     <tr>
@@ -39,6 +40,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
             <img src="https://www.linkpicture.com/q/net_3.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/vscode_1.png" height="42px" align="left">
             <img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" height="42px" align="left">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRda0DJBSxwYFu3_6eJYq4U2csp6BEGtYNHhQgT4HjIo4Z1DV1q3dctrTJmyc4U6t79SoI&usqp=CAU" height="42px" align="left">
         </td>
     </tr>
     <tr>
@@ -47,6 +49,7 @@ I love Python and its extensive libraries have been helping me visualizing data 
             <img src="https://www.linkpicture.com/q/js_6.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/flask_1.png" height="42px" align="left">
             <img src="https://www.linkpicture.com/q/vscode_1.png" height="42px" align="left">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRda0DJBSxwYFu3_6eJYq4U2csp6BEGtYNHhQgT4HjIo4Z1DV1q3dctrTJmyc4U6t79SoI&usqp=CAU" height="42px" align="left">
         </td>            
     </tr>
 </table>
