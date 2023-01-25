@@ -55,4 +55,4 @@ I love Python and its extensive libraries have been helping me visualizing data 
 </table>
 
 ***MY REPOSITORIES ARE NOT PUBLIC <= FY23***
-[comment]: <>![image](https://user-images.githubusercontent.com/72539638/213868752-488c1589-7075-4f3d-aa6a-465c3442ae1e.png)
+[comment]: <> (![image](https://user-images.githubusercontent.com/72539638/213868752-488c1589-7075-4f3d-aa6a-465c3442ae1e.png))
