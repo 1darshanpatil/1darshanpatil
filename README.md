@@ -1,6 +1,9 @@
 ## Getting to the personal part:
 
-I'm passionate about exploring the endless possibilities of mathematics and finding creative [solutions to complex problem](https://math.stackexchange.com/users/992496/darshan-p?tab=profile)(Not active user).
+I'm passionate about exploring the endless possibilities of mathematics and finding creative [solutions to complex problem](https://user-images.githubusercontent.com/72539638/226156726-3a100b3a-c3fe-46af-822e-bf76f0ab2eda.png) say like [projecteuler](https://projecteuler.net/) where [Coin partitions #78](https://projecteuler.net/problem=78) was my favourite problem as part of my research on integer partition as [Ramanujan's work on Integer partition](https://user-images.githubusercontent.com/72539638/226156980-391121e6-ce4b-492a-872b-d2b2397a6be0.png) optimized code by 5X.
+
+To say in brief I do not code but use codes for mathematics only.
+
 
 
 I love Python and its extensive libraries have been helping me visualizing data and making calculations a lot easier. I sometimes spend my time finding direction of stocks and commodities futures attempting to decipher the previous patterns, news, global market, and global supply chain.
