@@ -1,6 +1,6 @@
 ## Getting to the personal part:
 
-I'm passionate about exploring the endless possibilities of mathematics and finding creative [solutions to complex problem](https://math.stackexchange.com/users/992496/darshan-p?tab=profile).
+I'm passionate about exploring the endless possibilities of mathematics and finding creative [solutions to complex problem](https://math.stackexchange.com/users/992496/darshan-p?tab=profile)(Not active user).
 
 
 I love Python and its extensive libraries have been helping me visualizing data and making calculations a lot easier. I sometimes spend my time finding direction of stocks and commodities futures attempting to decipher the previous patterns, news, global market, and global supply chain.
