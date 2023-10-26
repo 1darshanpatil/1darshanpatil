@@ -1,7 +1,7 @@
 ***MY REPOSITORIES ARE NOT PUBLIC <= FY25***
 ***[Read More about my current private project](https://1darshanpatil.github.io/blog/privacyFolds/crudeprivacy.html)***
 
-[![Alt text](port.png)](http://drshnp.com)
+[![Alt text]([port.png](https://github.com/1darshanpatil/1darshanpatil/assets/72539638/f03c8181-5b82-4a6c-8b59-576ce9fc868c))](http://drshnp.com)
 
 
     $ whoam -i
