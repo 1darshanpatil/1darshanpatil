@@ -1,5 +1,5 @@
 ***MY REPOSITORIES ARE NOT PUBLIC <= FY25***
-***[Read More about my current private project](https://1darshanpatil.github.io/blog/privacyFolds/crudeprivacy.html)***
+
 
 ## I'm passionate for solving complex problems.
 
