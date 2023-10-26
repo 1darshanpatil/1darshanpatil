@@ -3,7 +3,7 @@
 
 ### I'm passionate for solving complex problems.
 
-I am a polymath with [interests in a number of subjects](./images/subjects.png). To a lesser or greater extent, I have been deeply influenced by mathematicians, physicists, and economists. My pursuits largely revolve around mathematics, finance, software development, and trading. None of these areas can be fully explored without data analysis, which forms a continuous loop in my exploration. For reasons related to quant and latency, I gravitate towards low-level programming languages like C and C++. However, none of my projects are complete without a touch of Python.
+I am a polymath with [interests in a number of subjects](https://drshnp.com/images/subjects.png). To a lesser or greater extent, I have been deeply influenced by mathematicians, physicists, and economists. My pursuits largely revolve around mathematics, finance, software development, and trading. None of these areas can be fully explored without data analysis, which forms a continuous loop in my exploration. For reasons related to quant and latency, I gravitate towards low-level programming languages like C and C++. However, none of my projects are complete without a touch of Python.
 
 I wouldn't label myself as self-taught. It's simply that my prime hobby involves sitting in front of a laptop. Despite this, I'm a highly diversified individual. I hold a strong belief in Darwinism, survival of the most adaptive and recognize the significance of public communication, ethics, morals, capitalism, democracy, economics, human psychology, spirituality, and to some extent, human anatomy.
 
