@@ -1,6 +1,16 @@
-## Getting to the personal part:
+## MY REPOSITORIES ARE NOT PUBLIC <= FY25***
 
-I am passionate about exploring the endless possibilities of mathematics and finding creative [solutions to complex problems](https://user-images.githubusercontent.com/72539638/226156726-3a100b3a-c3fe-46af-822e-bf76f0ab2eda.png). For instance, on [Project Euler](https://projecteuler.net/), I particularly enjoyed working on [problem #78](https://projecteuler.net/problem=78), which involved coin partitions. As part of my research on integer partition, I optimized  code by 5X implementing [Ramanujan's work on integer partition](https://user-images.githubusercontent.com/72539638/226156980-391121e6-ce4b-492a-872b-d2b2397a6be0.png)
+
+### I'm passionate for solving complex problems.
+
+I am a polymath with [interests in a number of subjects](./images/subjects.png). To a lesser or greater extent, I have been deeply influenced by mathematicians, physicists, and economists. My pursuits largely revolve around mathematics, finance, software development, and trading. None of these areas can be fully explored without data analysis, which forms a continuous loop in my exploration. For reasons related to quant and latency, I gravitate towards low-level programming languages like C and C++. However, none of my projects are complete without a touch of Python.
+
+I wouldn't label myself as self-taught. It's simply that my prime hobby involves sitting in front of a laptop. Despite this, I'm a highly diversified individual. I hold a strong belief in Darwinism, survival of the most adaptive and recognize the significance of public communication, ethics, morals, capitalism, democracy, economics, human psychology, spirituality, and to some extent, human anatomy.
+
+
+- [See What's on My Mind](https://1darshanpatil.github.io/blog)
+- [Books I read](https://drshnp.com/books.html)
+- [SoftdevProjects](https://drshnp.com/currentproj.html)
 
     $ whoam -i
     Python is my passion, but I also use code for mathematics. Its extensive libraries have helped me to visualize data
