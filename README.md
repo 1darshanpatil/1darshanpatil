@@ -1,7 +1,20 @@
 ***MY REPOSITORIES ARE NOT PUBLIC <= FY25***
 ***[Read More about my current private project](https://1darshanpatil.github.io/blog/privacyFolds/crudeprivacy.html)***
 
-[![Alt text]([port.png](https://github.com/1darshanpatil/1darshanpatil/assets/72539638/f03c8181-5b82-4a6c-8b59-576ce9fc868c))](http://drshnp.com)
+## I'm passionate for solving complex problems.
+
+I am a polymath with [interests in a number of subjects](./images/subjects.png). To a lesser or greater extent, I have been deeply influenced by mathematicians, physicists, and economists. My pursuits largely revolve around mathematics, finance, software development, and trading. None of these areas can be fully explored without data analysis, which forms a continuous loop in my exploration. For reasons related to quant and latency, I gravitate towards low-level programming languages like C and C++. However, none of my projects are complete without a touch of Python.
+
+I wouldn't label myself as self-taught. It's simply that my prime hobby involves sitting in front of a laptop. Despite this, I'm a highly diversified individual. I hold a strong belief in Darwinism, survival of the most adaptive and recognize the significance of public communication, ethics, morals, capitalism, democracy, economics, human psychology, spirituality, and to some extent, human anatomy.
+
+
+- [See What's on My Mind](https://1darshanpatil.github.io/blog)
+- [Books I read](https://drshnp.com/books.html)
+- [SoftdevProjects](https://drshnp.com/currentproj.html)
+- [PrivacyFirst](https://1darshanpatil.github.io/blog/privacyFolds/crudeprivacy.html)
+
+
+
 
 
     $ whoam -i
