@@ -1,8 +1,7 @@
-# Welcome to My GitHub! 🚀
+# [Portfolio Site](https://drshn.me) 🚀
 
 
-## 🌟 About Me
-
+## whoam -i🌟 
 I am a **polymath** with diverse interests spanning [numerous subjects](./subjects.png). My work and curiosity are deeply influenced by the worlds of **mathematics**, **physics**, and **economics**. At the intersection of these fields, I focus on:
 
 - **[Mathematics](https://www.drshn.me/c1e62b16f7444f4c5d04a52056e8893d6cc2e439b91be59f4b9b5ef9dbcb98bb.php)**: For its beauty and universal application.
@@ -34,5 +33,3 @@ I am a **polymath** with diverse interests spanning [numerous subjects](./subjec
 My privacy matters deeply to me. If you’re curious about my approach to balancing openness and discretion, [read here](https://www.drshn.me/blog/privacyFolds/pcrude.php).
 
 ---
-
-Thank you for visiting, and feel free to reach out if you'd like to collaborate or chat!
