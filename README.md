@@ -3,11 +3,21 @@
 
 ## whoam -i🌟 
 
-**CURIOUS:**  
-My curiosity knows no boundaries—it defines who I am. I call this my unquenchable lust for knowledge and a relentless desire to understand the principles that govern the world. I don't shy away from going to great lengths, often writing 300 lines of "comments and explanations" for just 3 lines of assembly code. You can explore my **[exit_sys.s](https://github.com/1darshanpatil/Assembly/blob/main/data-addressing/exit_sys.s)** as an example of my detailed approach.
+### CURIOUS  & INTUITION
+Curiosity defines me. I’ve always had this insatiable thirst, which I call "The unquenchable lust," to explore, learn, and understand the principles that make things tick. My guiding thought is simple: "Can I imagine what I’m saying I know by simply closing my eyes?" If the answer is no, I keep reading until I can.  
 
-**PROBLEM:**  
-I stick with problems and rarely give up on them. While I may occasionally set aside certain challenges to focus on immediate priorities, I always strive to tackle them with my utmost effort. I value privacy and seclusion, but some of my work is shared openly—for example, my contributions to **[Project Euler Problem 246](https://github.com/1darshanpatil/project-euler-246)**.
+Take **[exit_sys.s](https://github.com/1darshanpatil/Assembly/blob/main/data-addressing/exit_sys.s)**, for example. I didnt shy away myself throwing 300 lines of comments to explain just 3 lines of assembly code—not because I had to, but because I enjoy breaking down complexity into something clear and understandable.  
+
+---
+
+### PROBLEM & OBSESSION  
+Like everyone, I have priorities and a list of pressing tasks. But behind all that, there are always problems running in the back of my mind. Sometimes, this obsession goes a bit overboard. I still remember the time I locked myself in a room for two months trying to solve the "Goldbach Conjecture," skipping engineering lectures, only to come up with NOTHING.  
+
+I usually don’t share or publish what I do—it’s for my own satisfaction. But I’ve written a few scripts that will publish my work on **[https://drshn.me/afterdeath](https://drshn.me/afterdeath)** if I’m no longer around.  
+
+For instance, **[Project Euler Problem 246](https://github.com/1darshanpatil/project-euler-246)** It reminds me that I put no boundaries on burning myself out in pursuit of a solution.(I know it was easy)
+
+---
 
 
 I am a **polymath** with diverse interests spanning [numerous subjects](./subjects.png). My work and curiosity are deeply influenced by the worlds of **mathematics**, **physics**, and **economics**. At the intersection of these fields, I focus on:
@@ -16,6 +26,7 @@ I am a **polymath** with diverse interests spanning [numerous subjects](./subjec
 - **[Finance and Trading](https://www.drshn.me/blog/41f9868d8b2ec0e9b40c9539a01aa9640c7c6dab0bc2ccf830b726f6f6d0e660.php)**: Driven by data, patterns, and a fascination with markets.
 - **Software Development**: With a particular love for low-level programming. (Sometimes, I read [AT&T syntax assembly for Intel x86 in my leisure time](https://github.com/1darshanpatil/Assembly))
 - **Data Analysis**: Connecting insights across disciplines. (Exploring datasets to train LLMs, leverage GPUs, and apply Linear Algebra techniques)
+
 ---
 ## 🔧 Skills Overview
 
