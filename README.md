@@ -2,6 +2,14 @@
 
 
 ## whoam -i🌟 
+
+**CURIOUS:**  
+My curiosity knows no boundaries—it defines who I am. I call this my unquenchable lust for knowledge and a relentless desire to understand the principles that govern the world. I don't shy away from going to great lengths, often writing 300 lines of "comments and explanations" for just 3 lines of assembly code. You can explore my **[exit_sys.s](https://github.com/1darshanpatil/Assembly/blob/main/data-addressing/exit_sys.s)** as an example of my detailed approach.
+
+**PROBLEM:**  
+I stick with problems and rarely give up on them. While I may occasionally set aside certain challenges to focus on immediate priorities, I always strive to tackle them with my utmost effort. I value privacy and seclusion, but some of my work is shared openly—for example, my contributions to **[Project Euler Problem 246](https://github.com/1darshanpatil/project-euler-246)**.
+
+
 I am a **polymath** with diverse interests spanning [numerous subjects](./subjects.png). My work and curiosity are deeply influenced by the worlds of **mathematics**, **physics**, and **economics**. At the intersection of these fields, I focus on:
 
 - **[Mathematics](https://www.drshn.me/c1e62b16f7444f4c5d04a52056e8893d6cc2e439b91be59f4b9b5ef9dbcb98bb.php)**: For its beauty and universal application.
